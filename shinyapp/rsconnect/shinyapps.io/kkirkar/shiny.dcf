@@ -1,0 +1,13 @@
+name: shiny
+title: shiny
+username:
+account: kkirkar
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 3436976
+bundleId: 4045080
+url: https://kkirkar.shinyapps.io/shiny/
+when: 1609411483.75958
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: .RData
